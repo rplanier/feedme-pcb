@@ -4039,7 +4039,7 @@
 			(uuid "3702508a-6e52-4406-823d-056c3809da13")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "R4")
 					(unit 1)
@@ -4109,7 +4109,7 @@
 			(uuid "02a0e6ed-aa3d-45b7-892f-b1ccb77abfe5")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "C2")
 					(unit 1)
@@ -4179,7 +4179,7 @@
 			(uuid "9e00e196-f765-4abe-be0b-ebcdb21c2ecc")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "C5")
 					(unit 1)
@@ -4249,7 +4249,7 @@
 			(uuid "369f8357-2b7a-4c26-b47c-a2a38308f823")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "J2")
 					(unit 1)
@@ -4319,7 +4319,7 @@
 			(uuid "4b964542-7e3e-4b46-ad50-74e89bb88de3")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "J5")
 					(unit 1)
@@ -4455,7 +4455,7 @@
 			(uuid "d79b5395-da30-4201-9ff5-abec8578fb44")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "#FLG02")
 					(unit 1)
@@ -4657,7 +4657,7 @@
 			(uuid "e3a3f4e2-c6e9-46cb-bc35-547f8fd8f046")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "#FLG04")
 					(unit 1)
@@ -4925,7 +4925,7 @@
 			(uuid "64e7a9cd-19c8-48ff-be08-f5593c86da3a")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "R5")
 					(unit 1)
@@ -4990,7 +4990,7 @@
 			(uuid "4ecbfba4-065e-4dd4-b3be-5781a65f179a")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "#PWR011")
 					(unit 1)
@@ -5331,7 +5331,7 @@
 			(uuid "0b471981-8a79-4470-bf38-220c082632c6")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "C3")
 					(unit 1)
@@ -6031,7 +6031,7 @@
 			(uuid "6f6f956b-cee6-46bd-8319-ad9799d06f4e")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "R8")
 					(unit 1)
@@ -6167,7 +6167,7 @@
 			(uuid "015c8fcf-13c6-4e85-aec6-40ccfbfbcfcd")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "R3")
 					(unit 1)
@@ -6236,7 +6236,7 @@
 			(uuid "71fb0390-cc59-4aa3-9ad4-2c65f69fdfe6")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "R6")
 					(unit 1)
@@ -6639,7 +6639,7 @@
 			(uuid "1a7aaaf6-743c-4fb5-ba3b-17f0da44df8e")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "#FLG01")
 					(unit 1)
@@ -6997,7 +6997,7 @@
 			(uuid "1bb0c3d8-3f2e-44da-890c-5cc58e0d5dda")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "C6")
 					(unit 1)
@@ -7067,7 +7067,7 @@
 			(uuid "94a43525-c05d-4b6c-b7f8-b4aad3af7e5f")
 		)
 		(instances
-			(project "FeedMe Deer Feeder"
+			(project "FeedMe PCB"
 				(path "/b3ab9838-c62e-414f-84a6-236c5814ba28"
 					(reference "R1")
 					(unit 1)
