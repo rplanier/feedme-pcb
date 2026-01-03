@@ -1,0 +1,23 @@
+# KiCad temporary and backup files
+*.kicad_prl
+*-backups/
+*autosave*
+_autosave-*
+*.bak
+*.tmp
+\#auto_saved_files\#
+*~
+*.lck
+
+# Cache files
+fp-info-cache
+
+# Generated outputs (regenerate from source)
+Gerbers/
+gerbers/
+bom/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
